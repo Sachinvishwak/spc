@@ -1,0 +1,238 @@
+@media only screen and (max-width: 1920px){
+	.asset-form .title h3{font-size: 28px;}
+	.asset-field-container .asset-field .asset-field-label{font-size: 18px;}
+	.asset-field-container .asset-submit .form-submit-button{font-size: 18px;padding: 8px;}
+	.our-data-table .view-more-data{display: flex;align-items: center;}
+	.our-data-table .view-more-data i{margin-left: 5px;}
+	.create-new-asset-container .asset-field-container .asset-submit a{font-size: 18px;padding: 9px;}
+	
+	.inner-overview .overview-data>.productivity-container .asset-productivity .assets-data>div .value{font-size: 55px;}
+	.inner-overview .overview-data>.productivity-container .asset-productivity .assets-data>div .field{font-size: 18px;}
+}
+
+@media only screen and (max-width: 1850px){
+	.assets_table tr td:nth-child(1){min-width: 83px;}
+	.assets_table tr td:nth-child(2){min-width: 100px;}
+	.assets_table tr td:nth-child(3){min-width: 180px;}
+	.assets_table tr td:nth-child(4){min-width: 210px;}
+	.assets_table tr td:nth-child(5){min-width: 240px;}
+	.assets_table tr td:nth-child(6){min-width: 255px;}
+	.assets_table tr td:nth-child(7){min-width: 255px;}
+	.assets_table tr td:nth-child(8){min-width: 150px;}
+
+	.yj99-left .insight-table tr td:nth-child(2){min-width: 115px;}
+	.yj99-left .insight-table tr td:nth-child(3){min-width: 120px;}
+	.yj99-left .insight-table tr td:nth-child(4){min-width: 150px;}
+	.yj99-left .insight-table tr td:nth-child(5){min-width: 150px;}
+	.yj99-left .insight-table tr td:nth-child(6){min-width: 130px;}
+
+	.senson-alert-continer .insight-table tr td:nth-child(2){min-width: 150px;}
+	.senson-alert-continer .insight-table tr td:nth-child(4){min-width: 435px;}
+	.maintanenceFilter .search-input-panel{flex-wrap: wrap;}
+	.maintanenceFilter .search-fields{width: 100% !important;}
+	.maintanenceFilter .action-btns{width: 100%;margin-top: 15px;display: flex;justify-content: flex-end;}
+	.maintanenceFilter .action-btns a{margin-right: 0 !important;}
+
+	.maintenenceTable tr td:nth-child(1){min-width: 100px;}
+	.maintenenceTable tr td:nth-child(2){min-width: 330px;}
+	.maintenenceTable tr td:nth-child(3){min-width: 120px;}
+	.maintenenceTable tr td:nth-child(4){min-width: 110px;}
+	.maintenenceTable tr td:nth-child(5){min-width: 220px;}
+	.maintenenceTable tr td:nth-child(6){min-width: 220px;}
+	.maintenenceTable tr td:nth-child(7){min-width: 125px;}
+	.maintenenceTable tr td:nth-child(8){min-width: 75px;}
+	.maintenenceTable tr td:nth-child(9){min-width: 135px;}
+
+	.productionTable tr td:nth-child(1){min-width: 120px;}
+	.productionTable tr td:nth-child(2){min-width: 110px;}
+	.productionTable tr td:nth-child(3){min-width: 130px;}
+	.productionTable tr td:nth-child(4){min-width: 180px;}
+	.productionTable tr td:nth-child(5){min-width: 250px;}
+	.productionTable tr td:nth-child(6){min-width: 200px;}
+	.productionTable tr td:nth-child(7){min-width: 180px;}
+	.productionTable tr td:nth-child(8){min-width: 100px;}
+	.productionTable tr td:nth-child(9){min-width: 140px;}
+
+	.generate-report .report-filter{width: 75%;}
+	.generate-report .report-filter .selection-filter{width: 56%;}
+	.generate-report .report-filter .date-section{width: 42%;}
+	.daily-static-report ul{justify-content: normal;}
+	.daily-static-report ul li .number{font-size: 30px;}
+	.daily-static-report ul li .field span{font-size: 13px;}
+	.daily-static-report ul li{padding: 0 15px;flex: 1;}
+	.individualTable tr td:nth-child(1){min-width: 240px;}
+	.individualTable tr td:nth-child(2){min-width: 180px;}
+	.individualTable tr td:nth-child(3){min-width: 130px;}
+	.individualTable tr td:nth-child(4){min-width: 510px;}
+	.individualTable tr td:nth-child(5){min-width: 210px;}
+	.individualTable tr td:nth-child(6){min-width: 130px;}
+    .inner-overview .overview-data>.productivity-container .asset-productivity .assets-data>div .value{font-size: 40px;}
+    .inner-overview .overview-data>.productivity-container .asset-productivity .numeric-data .title h4{font-size: 20px;}
+    .inner-overview .overview-data>.productivity-container .asset-productivity .assets-data>div .field{font-size: 16px;}
+    .inner-overview .overview-data>.productivity-container .asset-productivity.downtime-container .assets-data .utilization-rate .down-arrow{font-size: 20px;}
+    .inner-overview .overview-data .graphical-data .title h4{font-size: 20px;}
+    .weather-chart-container .title h4{font-size: 20px;}
+    
+}
+
+@media only screen and (max-width: 1600px){
+	.assets-overview-container .about-assets-overview .search-panel{padding: 15px;}
+	.assets-overview-container .about-assets-overview .search-panel .search-title{font-size: 16px;}
+	.assets-overview-container .about-assets-overview .search-panel .search-input-panel{font-size: 16px;}
+	.assets-overview-container .about-assets-overview .search-panel .search-input-panel .search-fields .location-container>.input-group select{font-size: 16px;}
+	.assets-overview-container .about-assets-overview .search-panel .search-input-panel .filter-date-container input{font-size: 16px;}
+	.assets-overview-container .about-assets-overview .search-panel .search-input-panel .filter-date-container span{font-size: 16px;}
+	.assets-overview-container .about-assets-overview .search-panel .search-input-panel .action-btns a{font-size: 16px;}
+	.assets-overview-container .about-assets-overview .search-panel .search-input-panel .action-btns input{font-size: 16px;padding: 4px 20px;}
+	.assets-overview-container .about-assets-overview .search-panel .search-input-panel .search-fields .location-container>.input-group>.input-group-append input{font-size: 16px;}
+	.target-runtime-container .target-revenue .title h3{font-size: 20px;}
+	.calculate-value .left .main-number .number{font-size: 30px;}
+	.calculate-value .left .main-number .text{font-size: 16px;display: block;}
+	.calculate-value .left .sub-number .number{font-size: 22px;}
+	.calculate-value .left .sub-number .text{font-size: 14px;}
+	.calculate-value .right{font-size: 30px;}
+
+	.generate-report .our-select select{font-size: 16px;}
+	.generate-report .our-select::before{width: 10px;height: 10px;}
+	.generate-report input[type='date']{font-size: 16px;}
+	.generate-report input[type='submit']{font-size: 16px;}
+	.static-report-container{padding: 25px;}
+	.daily-static-report .title h4{font-size: 20px;margin: 0;}
+	.performance-breakdown .title h4{font-size: 20px;}
+	.performance-breakdown .short-by .label{font-size: 16px;}
+	.performance-breakdown .short-by ul li a{font-size: 16px;}
+	.production-report .title h4{font-size: 20px;}
+	.performance-breakdown .filter-by .label{font-size: 16px;}
+	.performance-breakdown .our-select select{font-size: 16px;}
+	.production-report .revenu-lost span{font-size: 16px;}
+	.report-info .label, .report-info .value{font-size: 20px;}
+	.ticket-trends-container .title h4{font-size: 20px;}
+	.Unplanned-downtime-container .title h4{font-size: 20px;}
+
+	.productionReportTable tr td:nth-child(1){min-width: 235px;}
+	.productionReportTable tr td:nth-child(2){min-width: 170px;}
+	.productionReportTable tr td:nth-child(3){min-width: 170px;}
+	.productionReportTable tr td:nth-child(4){min-width: 110px;}
+	.productionReportTable tr td:nth-child(5){min-width: 160px;}
+	.productionReportTable tr td:nth-child(6){min-width: 145px;}
+	.productionReportTable tr td:nth-child(7){min-width: 165px;}
+
+	.indivisual-downtime-container{padding: 25px;}
+	.safety-accidents-container{padding: 25px;}
+}
+
+@media only screen and (max-width: 1500px){
+	#all-content{padding: 25px;}
+	.asset-form .title h3{font-size: 22px;}
+	.asset-field-container .asset-field .asset-field-label{font-size: 16px;width: 18%;}
+	.asset-field-container .asset-field-section-top .asset-field-section .asset-field .asset-field-label{width: 35%;}
+	.asset-field-container .asset-submit .form-submit-button{font-size: 16px;padding: 5px;}
+	.asset-field-container .asset-field .asset-field-input select, .asset-field-container .asset-field .asset-field-input input{font-size: 16px;}
+	.asset-field-container .asset-field .asset-field-input .our-select::before{width: 10px;height: 10px;}
+	.page-content-body .breadcrumb_part .breadcrumb .breadcrumb-item a{font-size: 16px;}
+	.page-content-body .breadcrumb_part .breadcrumb .breadcrumb-item{font-size: 16px;line-height: 1;}
+	#our-page-wrapper #sidebar{width: 250px;padding: 20px;}
+	.assets-sidebar .level01>li>.title-level-01, .assets-sidebar .level01 .level02 .title-level-02{font-size: 16px;}
+	.assets-sidebar .level01 .level02 .level03 .title-level-03{font-size: 16px;}
+	.assets-sidebar .level01 .level02 li{font-size: 16px;}
+	.assets-sidebar ul>li>a{font-size: 16px;}
+	.light .topbar .inner-topbar .nav-menu .nav-menu-left ul li a{font-size: 16px;}
+	.topbar .inner-topbar .nav-menu .nav-menu-right>.about-user .admin-profile-container .welcome-user{font-size: 16px;}
+	.topbar .inner-topbar .nav-menu .nav-menu-right>.about-user .notification-container .bell-icon{font-size: 20px;}
+	.topbar .inner-topbar .nav-menu .nav-menu-right>.about-user .notification-container{margin-right: 15px;}
+	.topbar .inner-topbar .nav-menu .nav-menu-right>.about-user .admin-profile-container .welcome-user i{font-size: 20px;}
+	.page-content-body .info-box .title{font-size: 25px;margin-bottom: 15px;}
+	.page-content-body .info-box{padding: 25px;}
+	.all-asset-info-tab-container .nav-tab-container li a{font-size: 16px;}
+	.asset-field-container .asset-field-section-top .asset-field-section .asset-field .asset-field-input{width: 55%;}
+	.asset-field-container .asset-field textarea{font-size: 16px;}
+	.asset-info-container .breadcrumb-section .form-submit-button{font-size: 16px;padding: 5px 35px;display: inline-block;}
+	.our-data-table .dataTables_paginate ul li a{font-size: 16px;}
+	.table tr th,
+	.table tr td{font-size: 16px !important;}
+	.our-data-table .dataTables_length select{font-size: 16px;width: 100px;height: auto;}
+	.our-data-table .dataTables_length label{font-size: 16px;}
+	.our-data-table .dataTables_filter input{width: 165px;height: 35px;}
+	.our-data-table .dataTables_filter{font-size: 16px;}
+	.create-new-asset-container .asset-field-container .asset-submit a{font-size: 16px;padding: 6px;}
+	.create-new-asset-container .asset-field-container .asset-submit *{min-width: 150px;}
+	.asset-field-container .asset-field .asset-field-input label{font-size: 16px;}
+	.asset-field-container .asset-field-section-container .asset-field-section-bottom .asset-field.add-equipment .asset-field-input{width: 20%;}
+	.asset-field-container .asset-field-section-container .asset-field-section-bottom .asset-field.add-equipment .asset-field-input .our-select select{font-size: 16px;}
+	.asset-field-section-container .asset-field-section-bottom .equipment-container .nav-tab-container li a{font-size: 16px;}
+	.asset-field-section-container .asset-field-section-bottom .equipment-container .tab-content table th{font-size: 14px;}
+	.page-content-body .page-inner-box .issue_overview_box .overview-head .title h3{font-size: 16px;}
+	.page-content-body .page-inner-box .issue_overview_box .overview-head .filter-bar ul li a{font-size: 15px;}
+	.inner-overview .overview-head .filter-bar ul li:not(:first-child):before{margin: 0 10px;}
+	.page-content-body .page-inner-box .issue_overview_box .overview-head .filter-bar label{font-size: 15px;}
+	.page-content-body .page-inner-box .data_table_part .data_table_header ul li a{font-size: 16px;}
+
+	.insightTable2 tr td:nth-child(2){min-width: 115px;}
+	.insightTable2 tr td:nth-child(3){min-width: 190px;}
+	.insightTable2 tr td:nth-child(4){min-width: 495px;}
+	.insightTable2 tr td:nth-child(5){min-width: 190px;}
+	.insightTable2 tr td:nth-child(6){min-width: 125px;}
+	.view-more-dropdown-container .all-details .warning{font-size: 16px;}
+	.view-more-dropdown-container .all-details .form-submit-button{padding: 8px 20px;}
+	.view-more-dropdown-container .all-details .solution-btn-row a{padding: 8px 20px;}
+	.view-more-dropdown-container .all-details ul li{font-size: 16px;}
+	.view-more-dropdown-container .toggle-btn{font-size: 18px;margin-bottom: 20px;}
+	.about-ticket-container .title h3{font-size: 18px;}
+	.about-ticket-container .title{padding-bottom: 10px;}
+	.add-ticket-form-container .title h3{font-size: 20px;}
+	.add-ticket-form-container .label{font-size: 16px;}
+	.add-ticket-form-container .value{font-size: 16px;}
+	.add-ticket-form-container label{font-size: 16px;}
+	.maintenence-issue-container .about-ticket-short .title h3{font-size: 20px;}
+	.maintenence-issue-container .about-ticket-short .summary span{font-size: 14px;}
+	.maintenence-issue-container .about-ticket-short{padding: 20px;}
+	.status-container ul li .label{min-width: 80px;}
+	.status-container ul li .value{width: calc(100% - 100px);}
+	.maintenence-issue-container>.action-btns a{font-size: 16px;width: 125px;text-align: center;}
+	.production-list ul li a{font-size: 16px;}
+	.generate-report{flex-wrap: wrap;}
+	.generate-report .report-filter{width: 100%;}
+	.generate-report .filter-btn{margin-top: 20px;display: flex;justify-content: flex-end;width: 100%;}
+	.generate-report .filter-btn input{height: 40px;width: auto;display: inline-block;width: 170px;text-align: center;}
+	.ticket-trends-container .ticket_chart_box_part .chart_box .heading{font-size: 16px;}
+	.inner-overview .overview-data>.productivity-container .asset-productivity .assets-data>div .value{font-size: 30px;}
+	.inner-overview .overview-data>.productivity-container .asset-productivity .assets-data>div .field{margin-left: 5px;}
+	.inner-overview .overview-data>.productivity-container .asset-productivity .assets-data>div .field{font-size: 14px;}
+}
+
+@media only screen and (max-width: 1400px){
+	.assets-overview-container .about-assets-overview .search-panel .search-input-panel .search-fields{width: 100%;}
+	.assets-overview-container .about-assets-overview .search-panel .search-input-panel{flex-wrap: wrap;}
+	.assets-overview-container .about-assets-overview .search-panel .search-input-panel .search-fields .location-container{width: 49%;}
+	.assets-overview-container .about-assets-overview .search-panel .search-input-panel .filter-date-container{width: 49%;}
+	.assets-overview-container .about-assets-overview .search-panel .search-input-panel .action-btns{width: 100%;margin-top: 15px;display: flex;justify-content: flex-end;}
+	.assets-overview-container .about-assets-overview .search-panel .search-input-panel .filter-date-container span{padding: 0;width: 10%;text-align: center;}
+	.assets-overview-container .about-assets-overview .search-panel .search-input-panel .filter-date-container input{width: 45%;}
+	.asset-field-container .asset-field-section-container .asset-field-section-bottom .asset-field.add-equipment .asset-field-input{width: 24%;}
+	.insightTable tr td:nth-child(1){min-width: 140px;}
+	.insightTable tr td:nth-child(2){min-width: 120px;}
+	.insightTable tr td:nth-child(3){min-width: 125px;}
+	.insightTable tr td:nth-child(4){min-width: 140px;}
+	.insightTable tr td:nth-child(5){min-width: 180px;}
+	.insightTable tr td:nth-child(6){min-width: 210px;}
+	.insightTable tr td:nth-child(7){min-width: 140px;}
+	.target-runtime-container .target-revenue .title h3{font-size: 18px;}
+	.calculate-value .left .main-number .number{font-size: 25px;}
+	.calculate-value .left .main-number .text{font-size: 13px;}
+	.calculate-value .left .sub-number .number{font-size: 18px;}
+	.calculate-value .left .sub-number .text{font-size: 12px;}
+	.calculate-value .right{font-size: 22px;}
+	.calculate-value{margin-top: 40px;}
+	.topbar .inner-topbar .nav-menu .nav-menu-left ul li a{font-size: 16px;}
+	.inner-overview .overview-data>.productivity-container .asset-productivity .assets-data>div .value{font-size: 25px;}
+	.inner-overview .overview-data>.productivity-container .asset-productivity .assets-data>div .field{font-size: 12px;}
+	.inner-overview .overview-data>.productivity-container .asset-productivity .assets-data>div .sub-val{font-size: 30px;}
+	.inner-overview .overview-data>.productivity-container .asset-productivity .assets-data>div:not(:first-child){padding-left: 10px;}
+	/*.topbar .inner-topbar .nav-menu .nav-menu-right .color-mode{display: flex;align-items: center;}*/
+	/*.topbar .inner-topbar .nav-menu .nav-menu-right .color-mode a{font-size: 15px;padding: 8px 10px;line-height: 1;display: block !important;}*/
+	.topbar .inner-topbar .nav-menu .nav-menu-left ul li{margin: 0 15px;}
+	.inner-overview .overview-data .graphical-data .overall-graph .one-north .title{font-size: 20px;}
+	.inner-overview .overview-data .graphical-data .overall-graph .one-north .filter-bar .title{font-size: 20px;}
+	.inner-overview .overview-data .graphical-data .overall-graph .one-north .filter-bar .our-select select{font-size: 16px;}
+	.our-select::before{width: 10px;height: 10px;}
+}
